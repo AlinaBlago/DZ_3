@@ -1,0 +1,3 @@
+# Project exclude paths
+/data_module/target/
+/execute_module/target/
